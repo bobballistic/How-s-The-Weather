@@ -405,6 +405,7 @@
 				A11303B619E3370200A55B6B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		A11303B719E3370200A55B6B /* Build configuration list for PBXNativeTarget "WebContentTests" */ = {
 			isa = XCConfigurationList;
@@ -413,6 +414,7 @@
 				A11303B919E3370200A55B6B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
